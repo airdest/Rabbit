@@ -18,6 +18,7 @@
 ![license](http://img.shields.io/badge/license-Apache%20v2-blue.svg)
 
 # Rabbit
+Rabbit is A Intelligent big data operation and maintenance system. 
 Rabbit Simplifies Data Governance,Data Quality Report, Data Lineage,Data Dictionary, and Save your time on OPS Document Maintenance.
 
 # Getting Start
